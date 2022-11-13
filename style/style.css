@@ -54,3 +54,7 @@ p{
 .guss::placeholder{
     padding: 20px;
 }
+.history{
+    margin-top: 20px;
+    background-color: yellow;
+}
